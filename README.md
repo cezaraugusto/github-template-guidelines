@@ -26,6 +26,17 @@ What does this project stands for?
 
 Tell them how to use it. Does it have an API?
 
+## Browser Support
+
+In case you need it.
+
+If you need more images, [check this great repository](https://github.com/alrra/browser-logos).
+
+| Chrome | Firefox | Internet <br>Explorer | Safari 
+|:---:|:---:|:---:|:---:|
+| <img width=140 src="chrome_256x256.png" alt="Google Chrome"> | <img width=140 src="firefox_256x256.png" alt="Mozilla Firefox"> | <img width=140 src="internet-explorer-tile_256x256.png" alt="Internet Explorer"></a> | <img width=140 src="safari_256x256.png" alt="Apple Safari"> 
+| latest | 44 | 10+ | latest |
+
 ## Contributing 
 
 *Write some Contributing guidelines or a Contributors list (or both!). Like:*
@@ -61,7 +72,7 @@ Reference someone's code you used, insert an external link or thank people:
 * [Am I Ready to Open Source it?](https://gist.github.com/PurpleBooth/6f1ba788bf70fb501439#file-am-i-ready-to-open-source-this-md)
 
 ## To-Do :man:
-- [ ] Browser support table
+- [x] Browser support table
 - [ ] Sample CONTRIBUTING file
 - [ ] Sample CHANGELOG file
 - [ ] Sample LICENSE file
