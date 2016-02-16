@@ -12,10 +12,11 @@ So you had an idea and developed the next world's industry-changing application.
 
 ## Installing
 
-So, how users can get this project up and running on their machines? 
+To quickly develop your next project with the help of this boilerplate, do the following:
 
 ```
-Describe it in a nice way. Code sample with installation basics always works.
+git clone git@github.com:cez-aug/github-project-boilerplate.git
+
 ```
 
 # Getting Started 
