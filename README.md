@@ -14,71 +14,65 @@ So you had an idea and developed the next world's industry-changing application.
 
 To quickly develop your next project with the help of this boilerplate, do the following:
 
-```
-git clone git@github.com:cez-aug/github-project-boilerplate.git
+### If you're starting from scratch: 
+
+First you'll need to clone this project and name it accordingly:
 
 ```
+git clone git@github.com:cez-aug/github-project-boilerplate.git YOUR-PROJECT-NAME && cd YOUR-PROJECT-NAME
+
+```
+
+### If you already have a project
+
+Raw directly the desired files under `template-files/` directory or follow the above step.
 
 # Getting Started 
 
-What does this project stands for? 
+This project is a boilerplate containing pre-build templates with resumed guidelines for README, CONTRIBUTING and CHANGELOG files, all of them filled under `template-files/`. This README itself is a fork of the README template file and targets to offer a minimum explanation about its project's purpose and usage. 
 
 ## Usage 
 
-Tell them how to use it. Does it have an API?
-
-## Browser Support
-
-In case you need it.
-
-If you need more images, [check this great repository](https://github.com/alrra/browser-logos).
-
-| Chrome | Firefox | Internet <br>Explorer | Safari 
-|:---:|:---:|:---:|:---:|
-| <img width=140 src="chrome_256x256.png" alt="Google Chrome"> | <img width=140 src="firefox_256x256.png" alt="Mozilla Firefox"> | <img width=140 src="internet-explorer-tile_256x256.png" alt="Internet Explorer"></a> | <img width=140 src="safari_256x256.png" alt="Apple Safari"> 
-| latest | 44 | 10+ | latest |
+1. Clone this project.
+2. Remove this file `rm README.md`.
+3. Move the desired template files under `template-files/` to the main directory and remove the unnecessary folder: `mv template-files/* . && rmdir template-files/`
+4. Now that you eliminated the garbage and have the files ready: start editing and have fun! :dancers:
 
 ## Contributing 
 
-*Write some Contributing guidelines or a Contributors list (or both!). Like:*
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
-
-*or if you like it simple*
-
-1. Fork this repository
-2. Create a branch
-3. Commit your changes
-4. Push your commits to the branch
-5. Submit a pull request
-More [here](https://help.github.com/categories/collaborating-on-projects-using-pull-requests/)
-
-Check also the [list of contributors](https://github.com/your/project/contributors) who helped on this project.
-
-## Changelog :memo:
-
-Please read [CHANGELOG.md](CHANGELOG.md) for further information.
-
-*If you're really into it, you can use [this tool](https://github.com/skywinder/github-changelog-generator).*
+1. Fork this repository.
+2. Create a `branch`.
+3. `Commit` your changes.
+4. `Push` your `commits` to the `branch` you created.
+5. Submit a `pull request` More [here](https://help.github.com/categories/collaborating-on-projects-using-pull-requests/). :shipit:
 
 ## Acknowledgments :thumbsup:
 
-Reference someone's code you used, insert an external link or thank people:
+This small project wouldn't be here if wasn't for the inspirational works listed below:
+
+### Resources
 
 * [Shields.io](http://shields.io/). Definitely a must-have.
-* [Squid Ink for the project Icon](http://thesquid.ink/free-icons/)
-* [Browser Logos for the... you know.](https://github.com/alrra/browser-logos/)
+* [Squid Ink (for this project Icon)](http://thesquid.ink/free-icons/)
+* [Browser Logos](https://github.com/alrra/browser-logos/)
+
+### README Guidelines 
 * [How to Write a Great Readme](https://robots.thoughtbot.com/how-to-write-a-great-readme)
 * [How To Write A Readme](http://jfhbrook.github.io/2011/11/09/readmes.html)
-* [Am I Ready to Open Source it?](https://gist.github.com/PurpleBooth/6f1ba788bf70fb501439#file-am-i-ready-to-open-source-this-md)
+* [Gist - Am I Ready to Open Source it?](https://gist.github.com/PurpleBooth/6f1ba788bf70fb501439#file-am-i-ready-to-open-source-this-md)
+
+### TODO: CONTRIBUTING Guidelines
+
+### TODO: CHANGELOG Guidelines
 
 ## To-Do :man:
-- [x] Browser support table
-- [ ] Sample CONTRIBUTING file
-- [ ] Sample CHANGELOG file
-- [ ] Sample LICENSE file
+- [x] ~~Browser support table.~~ Removed from main README file.
+- [ ] More Markdown basics.
+- [ ] Sample README file.
+- [ ] Sample CONTRIBUTING file.
+- [ ] Sample CHANGELOG file.
 
 ## License 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-[Cezar Augusto](http://cezar.work) has dedicated the work to the public domain by waiving all of his rights to the work worldwide under copyright law. More about CC licenses [here](http://creativecommons.org).
+To the extent possible under law, [Cezar Augusto](http://cezar.work) has waived all copyright and related or neighboring rights to this work.
