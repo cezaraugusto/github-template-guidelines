@@ -1,4 +1,4 @@
-<img src="diploma.png" align="left" width="192px" height="192px"/>
+<img src="logo.png" align="left" width="192px" height="192px"/>
 <img align="left" width="0" height="192px" hspace="10"/>
 
 > Boilerplate for documentation files. For pretty ones. 
@@ -36,16 +36,20 @@ This README itself is a fork of the [README boilerplate]() file and targets to o
 
 You're good following [CONTRIBUTING.md template](.github/CONTRIBUTING.md) guidelines.
 
-### Resources:thumbsup:
+## Resources :thumbsup:
 
 ### README Guidelines 
-* [How to Write a Great Readme](https://robots.thoughtbot.com/how-to-write-a-great-readme)
-* [How To Write A Readme](http://jfhbrook.github.io/2011/11/09/readmes.html)
-* [Gist - Am I Ready to Open Source it?](https://gist.github.com/PurpleBooth/6f1ba788bf70fb501439#file-am-i-ready-to-open-source-this-md)
+* [Caleb Thompson - How to Write a Great Readme](https://robots.thoughtbot.com/how-to-write-a-great-readme)
+* [Joshua Holbrook - How To Write A Readme](http://jfhbrook.github.io/2011/11/09/readmes.html)
+* [Billie Thompson - Am I Ready to Open Source it?](https://gist.github.com/PurpleBooth/6f1ba788bf70fb501439#file-am-i-ready-to-open-source-this-md)
 
 ### TODO: CONTRIBUTING Guidelines
 
 ### TODO: CHANGELOG Guidelines
+
+### TODO: ISSUE_TEMPLATE Guidelines
+
+### TODO: PULL_REQUEST_TEMPLATE Guidelines
 
 ## To-Do :man:
 - [x] ~~Browser support table.~~ Removed from main README file.
