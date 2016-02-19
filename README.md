@@ -52,13 +52,13 @@ You're good following [CONTRIBUTING.md template](.github/CONTRIBUTING.md) guidel
 ### TODO: PULL_REQUEST_TEMPLATE Guidelines
 
 ## To-Do :man:
-- [x] ~~Browser support table.~~ Removed from main README file.
-- [ ] More Markdown basics.
-- [ ] Sample README file.
-- [ ] Sample CONTRIBUTING file.
-- [ ] Sample PULL_REQUEST_TEMPLATE file.
-- [ ] Sample ISSUE_TEMPLATE file.
-- [ ] Sample CHANGELOG file.
+- [x] ~~Browser support table.~~ Removed To-Do.
+- [x] More Markdown basics.
+- [x] Sample README file.
+- [x] Sample CONTRIBUTING file.
+- [x] Sample PULL_REQUEST_TEMPLATE file.
+- [x] Sample ISSUE_TEMPLATE file.
+- ~~[ ] Sample CHANGELOG file~~ Removed To-do.
 
 ## License 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
