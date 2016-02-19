@@ -50,7 +50,7 @@ This project is a collection of [boilerplate](http://whatis.techtarget.com/defin
 
 > `CHANGELOG` References
 
-This boilerplate intentionally did not provide any `CHANGELOG` file as example, since (this tool)[https://github.com/skywinder/github-changelog-generator] could make it automatically, fulfilling the file's objective.
+This boilerplate intentionally did not provide any `CHANGELOG` file as example, since [this tool](https://github.com/skywinder/github-changelog-generator) could make it automatically, fulfilling the file's objective.
 
 If you still want to keep it handwritten, to keep you (and your project) sane, I recommend you to follow the below references:
 
@@ -68,7 +68,7 @@ If you still want to keep it handwritten, to keep you (and your project) sane, I
 
 ## Acknowledgements
 
-Special thanks for [Nathalia Bruno](github.com/nathibruno/) and [Billie Thompson](github.com/PurpleBooth/) for the support/resources, respectivelly.
+Special thanks for [Nathalia Bruno](http://github.com/nathibruno/) and [Billie Thompson](http://github.com/PurpleBooth/) for the support/resources, respectivelly.
 
 ## License 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
