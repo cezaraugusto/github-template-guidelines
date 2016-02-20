@@ -3,7 +3,7 @@
 
 > Short description (one line) about what this project stands for. 
 
-[![Under Development](https://img.shields.io/badge/under-development-orange.svg)](https://github.com/cez-aug/github-project-template) [![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Under Development](https://img.shields.io/badge/under-development-orange.svg)](https://github.com/cez-aug/github-project-boilerplate) [![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 Short project's overview (one paragraph) explaining what this project stands for. Using this boilerplate, three lines is a good length for briefly explaining this project's purpose while respecting the base layout. :alien:
 
