@@ -22,7 +22,7 @@ Expose your project guidelines about how to contribute to it. Offer resources th
 * Some Project Management tool. 
 
 _Now this is a good time to remind people to follow some rules and to be polite while contributing:_
-_
+
 > Please note we have a code of conduct, please follow it in all your interactions with the project.
 
 ## Getting started
@@ -46,4 +46,4 @@ Code should be optimized for readability. Attach some custom style guide or refe
 
 This section should explicitly state that we will not discriminate against people on any grounds other than their code contributions, and make clear that behaviour that would be harmful to other people that may wish to contribute is not acceptable. This gives clear authority to remove people who are causing problems, and also sets a clear tone of inclusion. 
 
-We achieve this by including a code of conduct like (Contributor Covenant)[http://contributor-covenant.org] or as a seperate code_of_conduct(.md) file ([see this example](http://contributor-covenant.org/version/1/4/)).
+We achieve this by including a code of conduct like (Contributor Covenant)[http://contributor-covenant.org] or as a seperate code_of_conduct(.md) file. [See this example](http://contributor-covenant.org/version/1/4/).
