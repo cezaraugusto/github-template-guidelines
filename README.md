@@ -9,7 +9,7 @@ So you had an idea and developed the next world's industry-changing application.
 
 <br>
 <p align="center">
-<strong>Templates:</strong>
+<strong>Templates included:</strong>
 <a href="/.github/README.md">README</a> • <a href="/.github/CONTRIBUTING.md">CONTRIBUTING </a> • <a href="/.github/PULL_REQUEST_TEMPLATE.md">PULL REQUEST</a> • <a href="/.github/ISSUE_TEMPLATE.md">ISSUE TEMPLATE</a>
 </p>
 <br>
@@ -22,12 +22,12 @@ Clone this project and name it accordingly:
 
 # Getting Started 
 
-This project is a collection of [boilerplate](http://whatis.techtarget.com/definition/boilerplate) (template) files with resumed guidelines for `README`, `CONTRIBUTING` and `CHANGELOG` documentation. It also includes a basic `ISSUE_TEMPLATE` and `PULL_REQUEST_TEMPLATE` which are now [allowed by GitHub](https://github.com/blog/2111-issue-and-pull-request-templates), all of them filled under `.github/` folder. This `README` itself is a fork of the `README` [template](.github/README.md).
+This project is a collection of [boilerplate](http://whatis.techtarget.com/definition/boilerplate) (template) files with resumed guidelines for `README`, `CONTRIBUTING` and `CHANGELOG` documentation. It also includes a basic `ISSUE_TEMPLATE` and `PULL_REQUEST_TEMPLATE` which are now [allowed by GitHub](https://github.com/blog/2111-issue-and-pull-request-templates). All templates are filled under `.github/` folder. This `README` itself is a fork of the `README` [template](.github/README.md).
 
 ## Usage 
 
 1. After installing, remove this file `rm README.md`.
-2. Move the `README` template file located under `.github/` to the main directory `mv .github/README.md .`, notice that the `.github/` is a hidden folder [created with the new GitHub's feature](https://github.com/blog/2111-issue-and-pull-request-templates) to avoid verbose on your project. :cool:
+2. Move the `README` template file located under `.github/` to the main directory `mv .github/README.md .` :cool:
 3. Follow the basic usage guidelines in each file or make it your way. *The world is yours*.
 
 ## Useful Resources :thumbsup:
@@ -52,13 +52,14 @@ This project is a collection of [boilerplate](http://whatis.techtarget.com/defin
 
 This boilerplate intentionally did not provide any `CHANGELOG` file as example, since [this tool](https://github.com/skywinder/github-changelog-generator) could make it automatically, fulfilling the file's objective.
 
-If you still want to keep it handwritten, to keep you (and your project) sane, I recommend you to follow the below references:
+If you still want to keep it handwritten, to keep you (and your project) sane, I'd recommend you to follow the references below:
 
 * [Semantic Versioning 2.0.0](http://semver.org/)
 * [Keep a Changelog](http://keepachangelog.com/)
 
 > `ISSUE_TEMPLATE` and `PULL_REQUEST_TEMPLATE` References
 
+[Creating an Issue Template for your repository](https://help.github.com/articles/creating-an-issue-template-for-your-repository/)
 * [Creating a Pull Request Template for your repository](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository/)
 * [Awesome GitHub Templates](https://github.com/devspace/awesome-github-templates)
 
@@ -68,7 +69,7 @@ If you still want to keep it handwritten, to keep you (and your project) sane, I
 
 ## Acknowledgements
 
-Special thanks for [Nathalia Bruno](http://github.com/nathibruno/) and [Billie Thompson](http://github.com/PurpleBooth/) for the support/resources, respectivelly.
+Special thanks to [Nathalia Bruno](http://github.com/nathibruno/) and [Billie Thompson](http://github.com/PurpleBooth/) for the support/resources, respectivelly.
 
 ## License 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
