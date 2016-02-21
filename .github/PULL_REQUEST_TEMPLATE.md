@@ -16,7 +16,9 @@ Ask contributors to ensure that any install or build dependencies are removed be
 
 ### Checklist
 
-Does the your project contributions have steps to follow before being approved? Tests, documentation changing, etc. 
+Does your project contributions have steps to follow before being approved? Tests, documentation changing, etc. 
+
+> Ensure that your `pull request` has followed all the steps below:
 
 - [ ] Code compilation
 - [ ] All tests passing
@@ -25,11 +27,11 @@ Does the your project contributions have steps to follow before being approved? 
 
 ### Description
 
-Ask the contributor to describe his pull request.
+Ask the contributor to describe his `pull request`.
 
 ## Proposed changes
 
-Ask contributors on why you (or your project maintainers) would accept this pull request. If it solves a previous request, also ask to link to that issue.
+Ask contributors about why you (or your project maintainers) would accept the pull request. If it solves a previous request, also ask to link to that issue.
 
 ### Types of changes
 
