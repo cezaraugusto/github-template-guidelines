@@ -15,7 +15,7 @@ Short project's overview (one paragraph) explaining what this project stands for
 So, how users can get this project up and running on their machines? 
 
 ``
-Describe it in a nice way. Code sample with installation basics **works great**
+Describe it in a nice way. Code samples with installation basics **works great**
 ``
 
 # Getting Started 
@@ -42,11 +42,11 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 
 More [here](https://help.github.com/categories/collaborating-on-projects-using-pull-requests/)
 
-> Check also the [list of contributors](https://github.com/your/project/contributors) who helped on this project.
+> Check also the [list of contributors](CONTRIBUTORS.md) who helped on this project.
 
 ## Changelog :memo:
 
-Write here a link for your CHANGELOG file. It's also commonly called HISTORY. 
+Write here a link for your `CHANGELOG` file. It's also commonly called `HISTORY`. 
 
 > As said on this project main `README` file, to keep you and your project sane, you can use [this tool](https://github.com/skywinder/github-changelog-generator).
 
@@ -67,8 +67,10 @@ If your project is still in an early release, a to-do list is a good thing to ke
 
 ## License 
 
-Include a refence for the license you choosed. For this project my take was the Public License:
+Include a refence for the license you choosed. For this project my take was the **Public License**:
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-[Cezar Augusto](http://cezar.work) has dedicated the work to the public domain by waiving all of his rights to the work worldwide under copyright law. More about CC licenses [here](http://creativecommons.org).
+[Cezar Augusto](http://cezar.work) has dedicated the work to the public domain by waiving all of his rights to the work worldwide under copyright law. 
+
+_More about **CC** licenses [here](http://creativecommons.org)._
