@@ -25,6 +25,10 @@ Ask the contributor to describe the issue he is facing or the feature he wants t
 
 Describe here the requirements to help the contributor describe how can you emulate the issue he is facing.
 
+- [ ] Step 1
+- [ ] Step 2
+- [ ] So on...
+
 ### Expected Results
 
 A text asking the contributor what should be the correct behaviour. 
