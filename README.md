@@ -71,8 +71,6 @@ If you still want to keep it handwritten, to keep you (and your project) sane, I
 
 Special thanks to [Nathalia Bruno](http://github.com/nathibruno/) and [Billie Thompson](http://github.com/PurpleBooth/) for the support/resources, respectivelly.
 
-> Please notice that the License will be changed to [MIT](https://opensource.org/licenses/MIT) after checked this to-do.
-
 ## License 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
