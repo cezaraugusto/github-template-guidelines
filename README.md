@@ -3,7 +3,7 @@
 
 > Template files for writing maintanable GitHub projects. Make your repo pretty!
 
-[![Under Development](https://img.shields.io/badge/under-development-orange.svg)](https://github.com/cez-aug/github-project-boilerplate) [![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Travis](https://img.shields.io/travis/cez-aug/github-project-boilerplate.svg)](http://github.com/cez-aug/github-project-boilerplate)
+[![Under Development](https://img.shields.io/badge/under-development-orange.svg)](https://github.com/cezar/github-project-boilerplate) [![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Travis](https://img.shields.io/travis/cezar/github-project-boilerplate.svg)](http://github.com/cezar/github-project-boilerplate)
 
 So you had an idea and developed the next world's industry-changing application. You decided to open-source it because you're way cool. Now you need to educate people about your project and need some docs to get started. You got it. :alien:
 
