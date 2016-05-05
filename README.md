@@ -3,7 +3,7 @@
 
 > Template files for writing maintanable GitHub projects. Make your repo pretty!
 
-[![Under Development](https://img.shields.io/badge/under-development-orange.svg)](https://github.com/cezar/github-project-boilerplate) [![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Travis](https://img.shields.io/travis/cezar/github-project-boilerplate.svg)](http://github.com/cezar/github-project-boilerplate)
+[![Under Development](https://img.shields.io/badge/under-development-orange.svg)](https://github.com/cezaraugusto/github-template-guidelines) [![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Travis](https://img.shields.io/travis/cezar/github-project-boilerplate.svg)](http://github.com/cezaraugusto/github-template-guidelines)
 
 So you had an idea and developed the next world's industry-changing application. You decided to open-source it because you're way cool. Now you need to educate people about your project and need some docs to get started. You got it. :alien:
 
@@ -65,13 +65,13 @@ If you still want to keep it handwritten, to keep you (and your project) sane, I
 
 ## Author
 
-* [Cezar Augusto](http://twitter.com/cez_aug)
+* [Cezar Augusto](http://twitter.com/cezaraugusto)
 
 ## Acknowledgements
 
-Special thanks to [Nathalia Bruno](http://github.com/nathibruno/) and [Billie Thompson](http://github.com/PurpleBooth/) for the support/resources, respectivelly.
+Special thanks to [Nathalia Bruno](http://github.com/nathaliabruno/) and [Billie Thompson](http://github.com/PurpleBooth/) for the support/resources, respectivelly.
 
 ## License
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Cezar Augusto](http://cezar.work) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Cezar Augusto](http://cezaraugusto.net) has waived all copyright and related or neighboring rights to this work.
