@@ -3,7 +3,7 @@
 
 > Template files for writing maintanable GitHub projects. Make your repo pretty!
 
-[![Under Development](https://img.shields.io/badge/under-development-orange.svg)](https://github.com/cezaraugusto/github-template-guidelines) [![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Travis](https://img.shields.io/travis/cezar/github-project-boilerplate.svg)](http://github.com/cezaraugusto/github-template-guidelines)
+[![Under Development](https://img.shields.io/badge/under-development-orange.svg)](https://github.com/cezaraugusto/github-template-guidelines) [![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Travis](https://img.shields.io/travis/cezaraugusto/github-project-boilerplate.svg)](http://github.com/cezaraugusto/github-template-guidelines)
 
 So you had an idea and developed the next world's industry-changing application. You decided to open-source it because you're way cool. Now you need to educate people about your project and need some docs to get started. You got it. :alien:
 
@@ -18,7 +18,7 @@ So you had an idea and developed the next world's industry-changing application.
 
 Clone this project and name it accordingly:
 
-``git clone git@github.com:cez-aug/github-project-boilerplate.git MY-PROJECT-NAME && cd MY-PROJECT-NAME``
+``git clone git@github.com:cezaraugusto/github-template-guidelines.git MY-PROJECT-NAME && cd MY-PROJECT-NAME``
 
 # Getting Started
 
@@ -68,7 +68,7 @@ If you still want to keep it handwritten, to keep you (and your project) sane, I
 * [Cezar Augusto](http://twitter.com/cezaraugusto)
 
 ## Acknowledgements
-
+ce
 Special thanks to [Nathalia Bruno](http://github.com/nathaliabruno/) and [Billie Thompson](http://github.com/PurpleBooth/) for the support/resources, respectivelly.
 
 ## License
