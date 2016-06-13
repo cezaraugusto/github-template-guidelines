@@ -84,10 +84,6 @@ Contributors END -->
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification.
 Contributions of any kind welcome!
 
-## Acknowledgements
-
-Special thanks to [Nathalia Bruno](http://github.com/nathaliabruno/) and [Billie Thompson](http://github.com/PurpleBooth/) for the support/resources, respectivelly.
-
 ## License
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
