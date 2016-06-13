@@ -50,9 +50,7 @@ This project is a collection of [boilerplate](http://whatis.techtarget.com/defin
 
 > `CHANGELOG` References
 
-This boilerplate intentionally did not provide any `CHANGELOG` file as example, since [this tool](https://github.com/skywinder/github-changelog-generator) could make it automatically, fulfilling the file's objective.
-
-If you still want to keep it handwritten, to keep you (and your project) sane, I'd recommend you to follow the references below:
+> This boilerplate intentionally did not provide any `CHANGELOG` file as example, since [this tool](https://github.com/skywinder/github-changelog-generator) could make it automatically, fulfilling the file's objective. If you still want to keep it handwritten, to keep you (and your project) sane, I'd recommend you to follow the references below:
 
 * [Semantic Versioning 2.0.0](http://semver.org/)
 * [Keep a Changelog](http://keepachangelog.com/)
