@@ -63,12 +63,29 @@ If you still want to keep it handwritten, to keep you (and your project) sane, I
 * [Creating a Pull Request Template for your repository](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository/)
 * [Awesome GitHub Templates](https://github.com/devspace/awesome-github-templates)
 
-## Author
+> `CONTRIBUTORS` References
 
-* [Cezar Augusto](http://twitter.com/cezaraugusto)
+* [All Contributors](https://github.com/kentcdodds/all-contributors/)
+* [All Contributors (CLI)](https://github.com/jfmengels/all-contributors-cli)
+
+## Contributors
+
+<!-- Contributors START
+Cezar_Augusto cezaraugusto http://cezaraugusto.net doc example prReview
+Nathalia_Bruno nathaliabruno http://nathaliabruno.com doc prReview
+Billie_Thompson PurpleBooth http://purplebooth.co.uk example
+Contributors END -->
+
+<!-- Contributors table START -->
+| [![Cezar Augusto](https://avatars.githubusercontent.com/cezaraugusto?s=100)<br /><sub>Cezar Augusto</sub>](http://cezaraugusto.net)<br />[📖](git@github.com:cezaraugusto/You-Dont-Know-JS/commits?author=cezaraugusto) 💡 👀 | [![Nathalia Bruno](https://avatars.githubusercontent.com/nathaliabruno?s=100)<br /><sub>Nathalia Bruno</sub>](http://nathaliabruno.com)<br />[📖](git@github.com:cezaraugusto/You-Dont-Know-JS/commits?author=nathaliabruno) 👀 | [![Billie Thompson](https://avatars.githubusercontent.com/PurpleBooth?s=100)<br /><sub>Billie Thompson</sub>](http://purplebooth.co.uk)<br />💡 |
+| :---: | :---: | :---: |
+<!-- Contributors table END -->
+
+This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification.
+Contributions of any kind welcome!
 
 ## Acknowledgements
-ce
+
 Special thanks to [Nathalia Bruno](http://github.com/nathaliabruno/) and [Billie Thompson](http://github.com/PurpleBooth/) for the support/resources, respectivelly.
 
 ## License
